@@ -1,0 +1,5 @@
+similarity_movies.pkl
+similarity_songs.pkl
+*.pkl
+venv/
+__pycache__/
