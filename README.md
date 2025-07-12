@@ -1,2 +1,1 @@
-# multi_domain_recommendation_system
-Multi Domain Recommendation Systems
+# multi_domain_recommendation_system_ml
