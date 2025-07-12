@@ -1,5 +1,6 @@
+venv/
 similarity_movies.pkl
 similarity_songs.pkl
 *.pkl
-venv/
+*.json
 __pycache__/
